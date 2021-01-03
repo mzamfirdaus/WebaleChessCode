@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ is\ a\ class\ that\ act\ as\ the\ Model\ class\r\n\r\n\ @author\ (Zamfirdaus)\r\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment2.params=a\ fromI\ fromJ\ toI\ toJ\ board
+comment2.target=boolean\ validateMove(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.Object[][])
+comment3.params=board
+comment3.target=void\ determineStartingPos(java.lang.Object[][])
+comment4.params=board
+comment4.target=void\ updateArrowPos(java.lang.Object[][])
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sun
+comment0.text=\r\n\ Sun\ is\ a\ class\ that\ act\ as\ the\ Model\ class\r\n\ \r\n\ @author\ (Zamfirdaus,\ Wan\ Eliasaph)\r\n
+comment1.params=pieceNum
+comment1.target=Sun(int)
+comment2.params=fromI\ fromJ\ toI\ toJ
+comment2.target=boolean\ move(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\r\n\ Arrow\ is\ a\ class\ that\ act\ as\ the\ Model\ class\r\n\r\n\ @author\ (Zamfirdaus,\ Hadya)\r\n
+comment1.params=pieceNum
+comment1.target=Arrow(int)
+comment2.params=startPos
+comment2.target=void\ setStartingPos(int)
+comment3.params=fromI\ fromJ\ toI\ toJ\ a\ name\ dir
+comment3.target=boolean\ move(int,\ int,\ int,\ int,\ java.lang.Object[][],\ java.lang.String,\ int)
+comment4.params=posI
+comment4.target=int\ validatePos(int)
+comment5.params=startPos
+comment5.target=void\ setStartPos(int)
+comment6.params=
+comment6.target=int\ getStartPos()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=java.lang.String\ name()
+comment9.params=name
+comment9.target=void\ setName(java.lang.String)
+numComments=10
